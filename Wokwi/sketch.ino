@@ -13,7 +13,7 @@ const char* password = "";
 
 // ThingSpeak
 const char* server = "api.thingspeak.com";
-const char* writeAPIKey = "F2WWJUI8A0D3OWRH";
+const char* writeAPIKey = "include_API_key";
 
 WiFiClientSecure client;
 

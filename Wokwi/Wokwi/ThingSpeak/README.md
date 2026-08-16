@@ -16,7 +16,7 @@ using graphs.
 
 ## Channel
 
-ThingSpeak Channel: [Your Channel Link]
+ThingSpeak Channel: [https://thingspeak.mathworks.com/channels/3456825/private_show]
 
 ## API Key
 
